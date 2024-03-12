@@ -1,0 +1,6 @@
+Bill breakdown: 
+pie:                      ...$3.99
+hello world:              ...$4.88
+zielisme:                 ...$20
+tip:                      ...$10
+total:                    ...$38.87
